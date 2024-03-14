@@ -1,3 +1,5 @@
+Tugas Pemrograman 2
+
         #include<stdio.h>
         int main(){
         
@@ -59,5 +61,7 @@ jika angka tersebut habis di bagi 4 maka itu adalah tahun kabisat. (tahun %4 == 
 jika angka tersebut tidak habis di bagi 100 maka angka tersebut bukan tahun kabisat (tahun %100 != 0)
 
 jika angka tersebut habis di bagi 400 maka angka tersebut adalah tahun kabisat. (tahun %400 == 0).
+
+
 
         
