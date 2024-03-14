@@ -48,7 +48,7 @@
         }
         return 0;
         }
-        
+kode tersebut akan menjalankan perhitungan yang dimana 
 
 
 
